@@ -302,10 +302,10 @@ class Login2 extends React.Component{
                             {password2=this.state.password}
                             </div>
 
-                            <input onClick={this.submitForm} type="submit"  value="Ingresar"></input>
+                            {/* <input onClick={this.submitForm} type="submit"  value="Ingresar"></input>
                             {console.log("Bienvenido")}
-                            
-                            <button type="button" onClick={() => this.handleClick()}>Hello</button>
+                             */}
+                            <button type="button" onClick={() => this.handleClick()}>Ingresar</button>
                            
                             <label><font color="white">Este sitio esta protegido  y aplican las politicas de privacidad y los terminos de servicios de google</font></label>
                         </div>
