@@ -1,0 +1,56 @@
+{
+    "base":[
+        {
+            "id":1,
+            "nombre":"Camilo",
+            "tipoDocumento":"CC",
+            "numeroDocumento":"1144132950",
+            "fechaNacimiento":"2018-07-22",
+            "fechaExpedicion":"2018-07-22",
+            "valorIngresos":"1500000",
+            "ValorEgresos":"900000",
+            "contrasena":"12345",
+            "tipoUsuario":"cliente"
+        },
+
+        {
+            "id":2,
+            "nombre":"Hernesto",
+            "tipoDocumento":"CC",
+            "numeroDocumento":"39995996",
+            "fechaNacimiento":"2018-07-22",
+            "fechaExpedicion":"2018-07-22",
+            "valorIngresos":"1500000",
+            "ValorEgresos":"900000",
+            "contrasena":"12345",
+            "tipoUsuario":"cliente"
+        },
+
+        {
+            "id":3,
+            "nombre":"Fernanda",
+            "tipoDocumento":"CC",
+            "numeroDocumento":"1144132951",
+            "fechaNacimiento":"",
+            "fechaExpedicion":"",
+            "valorIngresos":"",
+            "ValorEgresos":"",
+            "contrasena":"12345",
+            "tipoUsuario":"administrador"
+        },
+
+        {
+            "id":4,
+            "nombre":"Taylor",
+            "tipoDocumento":"CC",
+            "numeroDocumento":"1144132952",
+            "fechaNacimiento":"",
+            "fechaExpedicion":"",
+            "valorIngresos":"",
+            "ValorEgresos":"",
+            "contrasena":"12345",
+            "tipoUsuario":"usuario interno"
+        }
+
+    ]
+}
